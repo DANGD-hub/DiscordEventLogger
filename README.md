@@ -270,3 +270,4 @@ Global variables are discord.js objects but have been stripped of all nested obj
 
 Only the top level properties that are not objects or arrays are kept when copying the discord.js object into the global object.
 
+[![Run on Repl.it](https://repl.it/badge/github/DANGD-hub/DiscordEventLogger)](https://repl.it/github/DANGD-hub/DiscordEventLogger)
